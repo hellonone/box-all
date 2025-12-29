@@ -1,0 +1,44 @@
+{
+  "urls": [
+    {
+      "url": "./main.json",
+      "name": "主用"
+    },
+    {
+      "url": "./mohe/mohe.json",
+      "name": "墨影-主用"
+    },
+    {
+      "url": "./墨云/墨云.json",
+      "name": "墨云"
+    },
+    {
+      "url": "./sx/suixin.json",
+      "name": "随心"
+    },
+    {
+      "url": "./优选/api.json",
+      "name": "优选"
+    },
+    {
+      "url": "./爱吃鬼/爱吃鬼.json",
+      "name": "爱吃鬼"
+    },
+    {
+      "url": "./仅供测试/仅供测试.json",
+      "name": "虎斑"
+    },
+    {
+      "url": "./moyu/moyu.json",
+      "name": "摸鱼"
+    },
+    {
+      "url": "./2.json",
+      "name": "定制"
+    },
+    {
+      "url": "./aowu/config.json",
+      "name": "嗷呜"
+    }
+  ]
+}
