@@ -15,6 +15,18 @@
   ],
   "sites": [
     {
+      "name": "💬嗷嗚彈幕",
+      "key": "嗷嗚彈幕",
+      "type": 3,
+      "jar": "./aowu/aowu.jar",
+      "api": "csp_GoConfigAmns",
+      "indexs": 1,
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
       "key": "huban",
       "name": "小虎斑弹幕",
       "type": 3,
@@ -29,6 +41,20 @@
       "ext": "./mohe/lib/txzl.js",
       "searchable": 1,
       "changeable": 1
+    },
+    {
+      "key": "腾讯视频",
+      "name": "💞腾讯4K💞限时",
+      "type": 3,
+      "api": "./sx/lib/drpy2.min.js",
+      "ext": "./sx/lib/腾讯视频.js"
+    },
+    {
+      "key": "芒果视频",
+      "name": "💞芒果4K💞限时",
+      "type": 3,
+      "api": "./sx/lib/drpy2.min.js",
+      "ext": "./sx/lib/芒果视频.js"
     },
     {
       "key": "移动",
