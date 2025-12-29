@@ -1,1 +1,2 @@
-clan://localhost/tvbox/tvbox-mohe/apis.json
+clan://localhost/tvbox/box-all/apis.json
+clan://localhost/tvbox/box-all/main.json
