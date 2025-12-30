@@ -49,7 +49,7 @@ public class JsonMergeUtil {
         // 写出到 "temp/merge.json"
         try (FileOutputStream outputStream = new FileOutputStream( "main.json")
         ) {
-            JSON.writeTo(outputStream, structureJson, JSONWriter.Feature.PrettyFormat);
+            JSON.writeTo(outputStream, structureJson);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
