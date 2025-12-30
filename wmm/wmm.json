@@ -8,7 +8,7 @@
       "key": "huban",
       "name": "小虎斑弹幕",
       "type": 3,
-      "jar": "./main/jar/HubanTC.jar",
+      "jar": "../main/jar/HubanTC.jar",
       "api": "csp_Huban"
     },
     {
