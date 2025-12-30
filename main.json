@@ -27,13 +27,6 @@
       "changeable": 0
     },
     {
-      "key": "huban",
-      "name": "小虎斑弹幕",
-      "type": 3,
-      "jar": "./main/jar/HubanTC.jar",
-      "api": "csp_Huban"
-    },
-    {
       "key": "墨韵💛视频",
       "name": "👈🏻点击左边图标可切换接口💞",
       "type": 3,
