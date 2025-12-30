@@ -1,0 +1,16 @@
+{
+  "jar": "./aowu/aowu.jar",
+  "sites": [
+    {
+      "name": "💬嗷嗚彈幕",
+      "key": "嗷嗚彈幕",
+      "type": 3,
+      "api": "csp_GoConfigAmns",
+      "indexs": 1,
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "jar": "./优选/jar/饭太硬.jar",
+  "sites": [
+    {
+      "key": "360_spider",
+      "name": "🎉360┃官源",
+      "api": "csp_SP360",
+      "jar": "./优选/jar/巧技.jar",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "playerType": 2,
+      "ext": ""
+    }
+  ]
+}

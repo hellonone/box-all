@@ -1,0 +1,40 @@
+[
+  {
+    "name": "王某某YeS(IJK)",
+    "type": 0,
+    "url": "http://59.153.164.125:6138/关注公众号王某某yes/王某某是我爹哦.txt",
+    "playerType": 1,
+    "ua": "okhttp/3.15,wmmswd/1.1.1"
+  },
+  {
+    "name": "王某某YeS(EXO)",
+    "type": 0,
+    "url": "http://59.153.164.125:6138/关注公众号王某某yes/王某某是我爹哦.txt",
+    "playerType": 2,
+    "ua": "okhttp/3.15,wmmswd/1.1.1"
+  },
+  {
+    "name": "虎牙一起看",
+    "type": 0,
+    "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+    "playerType": 2,
+    "timeout": 10,
+    "ua": "okHttp/Mod-1.4.0.0"
+  },
+  {
+    "name": "斗鱼一起看",
+    "type": 0,
+    "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+    "playerType": 2,
+    "timeout": 10,
+    "ua": "okHttp/Mod-1.4.0.0"
+  },
+  {
+    "name": "B站直播",
+    "type": 0,
+    "url": "https://sub.ottiptv.cc/bililive.m3u",
+    "playerType": 2,
+    "timeout": 10,
+    "ua": "okHttp/Mod-1.4.0.0"
+  }
+]

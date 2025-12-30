@@ -17,3 +17,53 @@
           "quickSearch": 0,
           "changeable": 0
         },
+
+{
+      "key": "腾讯",
+      "name": "🐴腾讯|官源|4K",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/js/gtx.js"
+    },
+    {
+      "key": "芒果",
+      "name": "🐴芒果|官源|4K",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/js/gmg.js"
+    },
+    {
+      "key": "哔哩",
+      "name": "🐴哔哩|官源|4k",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/js/gbl.js"
+    },
+    {
+      "key": "奇异",
+      "name": "🐴奇艺|官源|2K",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/js/gqy.js"
+    },
+    {
+      "key": "优酷",
+      "name": "🐴优酷|官源|2K",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/js/gyk.js"
+    },
+    {
+      "key": "360",
+      "name": "🐴360|官源|24K",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/js/g360.js"
+    },
+    {
+      "key": "资源某某",
+      "name": "🌟王某某|资源",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "http://59.153.164.125:5369/gwmm.js"
+    },

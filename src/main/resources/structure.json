@@ -1,0 +1,26 @@
+{
+  "wallpaper": "https://imgs.catvod.com/",
+  "homeLogo": "https://files.codelife.cc/icons/google.svg",
+  "spider": "./mohe/moyun.jar",
+  "notice": "接口切勿分享!",
+  "warningText": "知道的人越多, 死的越快, 切勿分享!!!!!!!!!!!!",
+  "sites": [],
+  "lives": [],
+  "parses": [],
+  "ijk": [],
+  "rules": [],
+  "flags": [],
+  "doh": [],
+  "ads": [],
+  "header": {
+    "User-Agent": "okhttp/4.9.1"
+  },
+  "proxy": [
+    "raw.githubusercontent.com"
+  ],
+  "hosts": [
+    "hlsztemgsplive.miguvideo.com=hlsztemgsplive.188766.xyz",
+    "cache.ott.fifalive.itv.cmvideo.cn=fifalive.188766.xyz",
+    "iptv.huuc.edu.cn=huucv6.188766.xyz"
+  ]
+}
