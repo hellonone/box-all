@@ -214,33 +214,13 @@
       "key": "金牌💞py",
       "name": "金牌💞py",
       "type": 3,
-      "api": "https://gitee.com/zxmoyun/ces111/raw/master/py/金牌影视.py",
+      "api": "./mohe/py/金牌影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
         "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
       }
-    },
-    {
-      "key": "猎手💞py",
-      "name": "猎手💞py",
-      "type": 3,
-      "api": "https://gitee.com/zxmoyun/ces111/raw/master/py/猎手影视.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "零度💞py",
-      "name": "零度💞py",
-      "type": 3,
-      "api": "https://gitee.com/zxmoyun/ces111/raw/master/py/零度影视.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "蚂蚁影视",
@@ -842,56 +822,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./mohe/lib/网飞猫[优].js"
-    },
-    {
-      "key": "甜圈短剧",
-      "name": "🍩甜圈｜短剧",
-      "type": 3,
-      "api": "https://gitee.com/zxmoyun/ces111/raw/master/py/甜圈短剧.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "偷乐短剧",
-      "name": "😏偷乐｜短剧",
-      "type": 3,
-      "api": "https://gitee.com/zxmoyun/ces111/raw/master/py/偷乐短剧.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "爱看短剧",
-      "name": "❤️爱看｜短剧",
-      "type": 3,
-      "api": "https://gitee.com/zxmoyun/ces111/raw/master/py/爱看短剧.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "锦鲤短剧",
-      "name": "🐟锦鲤｜短剧",
-      "type": 3,
-      "api": "https://gitee.com/zxmoyun/ces111/raw/master/py/锦鲤短剧.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "剧王短剧",
-      "name": "👑剧王｜短剧",
-      "type": 3,
-      "api": "https://gitee.com/zxmoyun/ces111/raw/master/py/剧王短剧.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "hipy_js_ok资源[资]",
