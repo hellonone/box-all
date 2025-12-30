@@ -5,6 +5,13 @@
   "notice": "欢迎使用王某某影视MIX",
   "sites": [
     {
+      "key": "huban",
+      "name": "小虎斑弹幕",
+      "type": 3,
+      "jar": "./main/jar/HubanTC.jar",
+      "api": "csp_Huban"
+    },
+    {
       "key": "腾讯",
       "name": "🐴腾讯|官源|4K",
       "type": 3,
