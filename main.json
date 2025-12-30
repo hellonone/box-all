@@ -15,11 +15,16 @@
   ],
   "sites": [
     {
-      "key": "huban",
-      "name": "小虎斑弹幕",
+      "name": "💬嗷嗚彈幕",
+      "key": "嗷嗚彈幕",
       "type": 3,
-      "jar": "./main/jar/HubanTCR.jar",
-      "api": "csp_Huban"
+      "jar": "./aowu/aowu.jar",
+      "api": "csp_GoConfigAmns",
+      "indexs": 1,
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     },
     {
       "key": "墨韵💛视频",
