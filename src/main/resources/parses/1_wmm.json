@@ -60,9 +60,7 @@
         "Wasu"
       ],
       "header": {
-        "User-Agent": {
-          "value": "okhttp/4.1.0"
-        }
+        "User-Agent": "okhttp/4.1.0"
       }
     }
   },
