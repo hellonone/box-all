@@ -1,0 +1,75 @@
+{
+  "jar": "./mohe/moyun.jar",
+  "sites": [
+    {
+      "key": "墨韵💛视频",
+      "name": "👈🏻点击左边图标可切换接口💞",
+      "type": 3,
+      "api": "./mohe/lib/drpy2.min.js",
+      "ext": "./mohe/lib/txzl.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "腾讯视频",
+      "name": "💞腾讯4K💞限时",
+      "type": 3,
+      "api": "./sx/lib/drpy2.min.js",
+      "ext": "./sx/lib/腾讯视频.js"
+    },
+    {
+      "key": "芒果视频",
+      "name": "💞芒果4K💞限时",
+      "type": 3,
+      "api": "./sx/lib/drpy2.min.js",
+      "ext": "./sx/lib/芒果视频.js"
+    },
+    {
+      "key": "💕4K资源☯",
+      "name": "💕4K资源☯",
+      "type": 3,
+      "api": "./mohe/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./mohe/lib/txsp.js"
+    },
+    {
+      "key": "💕4K资源✡",
+      "name": "💕4K资源✡",
+      "type": 3,
+      "api": "./mohe/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "./mohe/lib/mgtv.js"
+    },
+    {
+      "key": "💕4K资源♚",
+      "name": "💕4K资源♚",
+      "type": 3,
+      "api": "./mohe/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "./mohe/lib/哔哩视频.js"
+    },
+    {
+      "key": "💕新腾讯",
+      "name": "💕新腾4K",
+      "type": 3,
+      "api": "./mohe/lib/纯腾讯.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": ""
+    }
+  ]
+}

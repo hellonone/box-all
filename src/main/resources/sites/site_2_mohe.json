@@ -2,29 +2,6 @@
   "jar": "./mohe/moyun.jar",
   "sites": [
     {
-      "key": "墨韵💛视频",
-      "name": "👈🏻点击左边图标可切换接口💞",
-      "type": 3,
-      "api": "./mohe/lib/drpy2.min.js",
-      "ext": "./mohe/lib/txzl.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "腾讯视频",
-      "name": "💞腾讯4K💞限时",
-      "type": 3,
-      "api": "./sx/lib/drpy2.min.js",
-      "ext": "./sx/lib/腾讯视频.js"
-    },
-    {
-      "key": "芒果视频",
-      "name": "💞芒果4K💞限时",
-      "type": 3,
-      "api": "./sx/lib/drpy2.min.js",
-      "ext": "./sx/lib/芒果视频.js"
-    },
-    {
       "key": "移动",
       "name": "免扫移动💞4k",
       "type": 3,
@@ -61,17 +38,6 @@
       "jar": "./mohe/lib/qj071.jar;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10"
     },
     {
-      "key": "💕4K资源☯",
-      "name": "💕4K资源☯",
-      "type": 3,
-      "api": "./mohe/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./mohe/lib/txsp.js"
-    },
-    {
       "key": "刺桐影视",
       "name": "刺桐💞影视",
       "type": 3,
@@ -83,42 +49,6 @@
       "ext": "http://pg1.cttv.vip/api.php/app/"
     },
     {
-      "key": "💕4K资源✡",
-      "name": "💕4K资源✡",
-      "type": 3,
-      "api": "./mohe/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "./mohe/lib/mgtv.js"
-    },
-    {
-      "key": "💕4K资源♚",
-      "name": "💕4K资源♚",
-      "type": 3,
-      "api": "./mohe/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "./mohe/lib/哔哩视频.js"
-    },
-    {
-      "key": "💕新腾讯",
-      "name": "💕新腾4K",
-      "type": 3,
-      "api": "./mohe/lib/纯腾讯.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": ""
-    },
-    {
       "jar": "./mohe/lib/spider2.jar",
       "key": "墨韵💞瓜子",
       "name": "墨韵💕瓜子",
@@ -127,25 +57,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "jar": "./mohe/lib/libi8K.jar",
-      "key": "bili综合",
-      "name": "哔哩综合",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "cookie": "./mohe/lib/bilibili_cookie.txt",
-        "json": "./mohe/lib/bili综合.json"
-      },
-      "timeout": 20
     },
     {
       "key": "享趣视频",
@@ -254,16 +165,6 @@
       "timeout": 10
     },
     {
-      "key": "臻彩",
-      "name": "臻彩",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cmszcsj.lfytv.cn/api.php/app/"
-    },
-    {
       "key": "hipy_js_旺旺影视",
       "name": "💕扶摇专属",
       "type": 3,
@@ -295,34 +196,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./mohe/lib/drpy2_剧爷爷.js"
-    },
-    {
-      "key": "💕腾讯弹幕",
-      "name": "💕腾讯｜弹幕",
-      "type": 3,
-      "api": "./mohe/lib/drpy2.min.js",
-      "ext": "./mohe/lib/腾讯弹幕.js"
-    },
-    {
-      "key": "💕优酷弹幕",
-      "name": "💕优酷｜弹幕",
-      "type": 3,
-      "api": "./mohe/lib/drpy2.min.js",
-      "ext": "./mohe/lib/优酷弹幕.js"
-    },
-    {
-      "key": "💕芒果弹幕",
-      "name": "💕芒果｜弹幕",
-      "type": 3,
-      "api": "./mohe/lib/drpy2.min.js",
-      "ext": "./mohe/lib/芒果弹幕.js"
-    },
-    {
-      "key": "💕爱奇艺弹幕",
-      "name": "💕爱奇艺｜弹幕",
-      "type": 3,
-      "api": "./mohe/lib/drpy2.min.js",
-      "ext": "./mohe/lib/爱奇.js"
     },
     {
       "key": "hipy_js_LIBVIO[优]",
@@ -404,20 +277,6 @@
       "ext": "./mohe/lib/优酷[官].js"
     },
     {
-      "key": "📚┃儿童",
-      "name": "💕儿童启蒙",
-      "type": 3,
-      "api": "./mohe/lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "./mohe/lib/兔小贝.js"
-    },
-    {
       "key": "可可影视",
       "name": "💕可可影视",
       "type": 3,
@@ -427,17 +286,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./mohe/lib/可可影视[优].js"
-    },
-    {
-      "key": "hipy_js_4K-AV",
-      "name": "💕4KAV",
-      "type": 3,
-      "api": "./mohe/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./mohe/lib/4K-AV.js"
     },
     {
       "key": "hipy_js_6V新版[磁]",
@@ -462,28 +310,6 @@
       "ext": "./mohe/lib/420电影院.js"
     },
     {
-      "key": "hipy_js_啊哈DJ[听]",
-      "name": "💕DJ音乐",
-      "type": 3,
-      "api": "./mohe/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./mohe/lib/啊哈DJ[听].js"
-    },
-    {
-      "key": "hipy_js_爱车MV",
-      "name": "💕音乐MV",
-      "type": 3,
-      "api": "./mohe/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./mohe/lib/爱车MV.js"
-    },
-    {
       "key": "hipy_js_爱迪影视",
       "name": "💕爱迪影视",
       "type": 3,
@@ -493,17 +319,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./mohe/lib/爱迪影视.js"
-    },
-    {
-      "key": "hipy_js_贝乐虎[儿]",
-      "name": "💕贝乐虎[儿]",
-      "type": 3,
-      "api": "./mohe/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./mohe/lib/贝乐虎[儿].js"
     },
     {
       "key": "hipy_js_厂长资源",
@@ -780,37 +595,6 @@
         "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
         "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
       }
-    },
-    {
-      "key": "jrsjs",
-      "name": "⚽Jrs┃球迷",
-      "type": 3,
-      "api": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt?file=drpy2.min.js",
-      "ext": "./mohe/lib/jrs.txt",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "timeout": 10,
-      "header": {
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
-      }
-    },
-    {
-      "key": "310js",
-      "name": "⚽310┃看球",
-      "type": 3,
-      "api": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt?file=drpy2.min.js",
-      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319885145/310.txt",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "timeout": 10
     },
     {
       "key": "hipy_js_网飞猫[优]",

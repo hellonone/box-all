@@ -1,0 +1,79 @@
+[
+  {
+    "name": "会员专属",
+    "type": 1,
+    "url": "http://59.153.164.125:6351/api/?key=RclMHZp7dyseUCmL8I4b&url=",
+    "ext": {
+      "flag": [
+        "qq",
+        "腾讯",
+        "腾 讯",
+        "腾讯视频",
+        "腾讯4k",
+        "mgtv",
+        "芒果",
+        "imgo",
+        "芒果TV",
+        "芒 果 T V",
+        "芒果4k",
+        "bilibili",
+        "B站",
+        "哔哩哔哩",
+        "哔哩",
+        "哔 哩",
+        "哔 哩 哔 哩",
+        "哔哩4k",
+        "youku",
+        "优酷",
+        "优 酷",
+        "优酷视频",
+        "qiyi",
+        "iqiyi",
+        "奇艺",
+        "爱奇艺",
+        "爱 奇 艺",
+        "TT",
+        "YZ",
+        "FF",
+        "BF",
+        "dyttm3u8",
+        "1080zyk",
+        "ffm3u8",
+        "m1905",
+        "xigua",
+        "letv",
+        "leshi",
+        "乐视",
+        "乐 视",
+        "sohu",
+        "搜狐",
+        "搜 狐",
+        "搜狐视频",
+        "tudou",
+        "pptv",
+        "qiyi.com",
+        "qq.com",
+        "mgtv.com",
+        "youku.com",
+        "bilibili.com",
+        "migu",
+        "Wasu"
+      ],
+      "header": {
+        "User-Agent": {
+          "value": "okhttp/4.1.0"
+        }
+      }
+    }
+  },
+  {
+    "name": "备用线路1080P",
+    "type": 0,
+    "url": "https://jx.xmflv.com/?url="
+  },
+  {
+    "name": "赞助会员享4K极致体验·王某某工具箱小程序可领时长·会员或领时长都需要重新打开软件",
+    "type": 1,
+    "url": "http://59.153.164.125:6351/moumou.php?url="
+  }
+]

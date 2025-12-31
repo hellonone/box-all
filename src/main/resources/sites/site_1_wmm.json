@@ -41,6 +41,60 @@
       "type": 3,
       "api": "./wmm/lib/drpy2.min.js",
       "ext": "./wmm/lib/gwmm.js"
+    },
+    {
+      "key": "玩偶哥哥",
+      "name": "☁玩偶┃免扫┃网盘4K",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar": "./wmm/jar/Spider98.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+        "cookie": "http://59.153.164.125:6138/mmjx/wpkk.php",
+        "uc_cookie": "http://59.153.164.125:6138/mmjx/wpuc.php",
+        "wogg": true,
+        "danmu": true
+      },
+      "timeout": 30
+    },
+    {
+      "key": "至臻网盘",
+      "name": "☁至臻┃免扫┃网盘4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "./wmm/jar/Spider98.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+        "cookie": "http://59.153.164.125:6138/mmjx/wpkk.php",
+        "uc_cookie": "http://59.153.164.125:6138/mmjx/wpuc.php",
+        "site": "http://www.miqk.cc",
+        "danmu": true
+      },
+      "timeout": 25
+    },
+    {
+      "key": "蜡笔网盘",
+      "name": "☁蜡笔┃免扫┃网盘4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "./wmm/jar/Spider98.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+        "cookie": "http://59.153.164.125:6138/mmjx/wpkk.php",
+        "uc_cookie": "http://59.153.164.125:6138/mmjx/wpuc.php",
+        "site": "http://www.labi88.sbs",
+        "danmu": true
+      },
+      "timeout": 25
     }
   ]
 }

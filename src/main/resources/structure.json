@@ -1,7 +1,7 @@
 {
   "wallpaper": "https://imgs.catvod.com/",
   "homeLogo": "https://files.codelife.cc/icons/google.svg",
-  "spider": "./mohe/moyun.jar",
+  "spider": "./wmm/jar/wmm.jar",
   "notice": "接口切勿分享!",
   "warningText": "知道的人越多, 死的越快, 切勿分享!!!!!!!!!!!!",
   "sites": [],

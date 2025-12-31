@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Super Resolution",
+    "type": 1,
+    "url": "http://111.92.242.214/jx.php?url=",
+    "ext": {
+      "flag": [
+        "imgo",
+        "youku",
+        "qq",
+        "qq 预告及花絮",
+        "iqiyi",
+        "qiyi",
+        "fun",
+        "letv",
+        "leshi",
+        "sohu",
+        "tudou",
+        "xigua",
+        "cntv",
+        "1905",
+        "pptv",
+        "mgtv",
+        "wasu",
+        "bilibili",
+        "renrenmi"
+      ]
+    }
+  }
+]
