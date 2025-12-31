@@ -920,7 +920,7 @@
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
-      "jar": "./jar/巧技.jar",
+      "jar": "./优选/jar/巧技.jar",
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
@@ -972,34 +972,6 @@
       "changeable": 1,
       "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg==",
       "jar": "./优选/jar/饭太硬.jar"
-    },
-    {
-      "key": "闪影视界",
-      "name": "🐱视界┃2K",
-      "type": 3,
-      "api": "./优选/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/AppGet.js?type=url&params=http://156.238.236.120:14500$J6AIORKJ3PQOJKM9$J6AIORKJ3PQOJKM9"
-    },
-    {
-      "key": "鲸鱼",
-      "name": "🐬鲸鱼┃2K┃极速",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "./优选/jar/欧歌.jar",
-      "ext": {
-        "url": "",
-        "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
-        "dataKey": "AAdgrdghjfgswerA",
-        "dataIv": "AAdgrdghjfgswerA",
-        "deviceId": "",
-        "version": ""
-      }
     }
   ],
   "lives": [
